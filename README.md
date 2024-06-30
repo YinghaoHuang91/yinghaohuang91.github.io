@@ -1,5 +1,4 @@
-# Recruitment Advertisement for PhD / Master Students, and Research Assistants\
-招聘博士 / 硕士研究生，及科研助理
+# Recruitment Advertisement for PhD / Master Students, and Research Assistants\招聘博士 / 硕士研究生，及科研助理
 
 Hi there! I am Dr. Yinghao Huang, currently a Post-doc Reseacher working with [Professor Taku Komura](https://i.cs.hku.hk/~taku/) at [The University of Hong Kong](https://www.hku.hk/) (from August of 2023). Before moving to Hong Kong, I spent 7 years in Germany and earned my PhD degree (December of 2022) in Computer Science from [Max-Planck-Institute for Intelligetn Systems](https://is.mpg.de/), under the guidance of [Director Michael J. Black](https://ps.is.mpg.de/person/black). During my PhD stage, I also interned at [Facebook Reality Labs](https://about.meta.com/realitylabs/) and worked full-time at [Momenta GmbH Europe](https://www.momenta.cn/en/).\
 大家好！我是黄英豪博士，现于[香港大学](https://www.hku.hk/)在[Taku Komura教授](https://i.cs.hku.hk/~taku/)的指导下从事博士后研究工作（始于2023年8月）。在过来香港之前，我在德国学习和生活了七年，并且在[所长Michael J. Black](https://ps.is.mpg.de/person/black)的指导下，从[马克斯普朗克智能系统研究所](https://is.mpg.de/)获得了计算机方面的博士学位。读博期间，我在美国[Facebook Reality Labs](https://about.meta.com/realitylabs/)做过一次实习，还在[Momenta欧洲公司]全职工作过一段时间(https://www.momenta.cn/en/)。
