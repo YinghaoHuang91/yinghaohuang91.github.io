@@ -23,8 +23,9 @@ Before jumping to the application, you may want to firstly check whether you wil
 
 ## Last Words
 Digital Humans or Virtual Humans have become a hot topic in both academia and industry, with many papers published at top-tier conferences and journals every year, many working 
-opportunities offered at tech giants, and many chances to build your name in this relatively new area. I am humbled to be able to continue exploring this exciting and promising direction, and I look forward to working with those who also think so. I hope you, who are reading this advertisement now, can be one of them, and one of us.\
+opportunities offered at tech giants, and many chances to build your name in this relatively new area. I am humbled to be able to continue exploring this exciting and promising direction, and I look forward to working with those who also think so. I hope you, who are reading this advertisement now, can be one of them, and one of us.
 
+_________________________________________________________________________________________________________________________________________________
 
 ## 个人背景
 大家好！我叫黄英豪，现在是香港大学[Taku Komura教授](https://i.cs.hku.hk/~taku/)课题组的一个博士后研究员（2023年8月至今）。来香港之前，我在德国学习和生活了7年，最终在[Michael J. Black所长](https://ps.is.mpg.de/person/black)和[Dimitris Tzionas教授](https://dtzionas.com/)的指导下，获得了[马克斯普朗克智能系统研究所](https://is.mpg.de/)和[图宾根大学](https://uni-tuebingen.de/en/)的博士学位。读博期间我曾在[Facebook Reality Labs](https://about.meta.com/realitylabs/)做过一次为期半年的实习，还在[Moemnta公司欧洲分部](https://www.momenta.cn/en/)全职工作过一段时间。
@@ -39,7 +40,7 @@ opportunities offered at tech giants, and many chances to build your name in thi
 [大湾区大学](https://www.gbu.edu.cn/?lang=en)是一所刚刚成立的新体制研究型大学，致力于建立一个将教育与科学、工业和大湾区融合的高等教育机构。当前学校的硕士研究生和博士研究生的学位将从哈尔滨工业大学（深圳）等内地其他知名高校颁发【具体细节待确认】。学院层面会提供充足的计算资源（GPU和GPU等）来支持各类人工智能方面的研究，同时实验室内部计划采购各类三维人体数据采集所需要的硬件设备，包括VICON动作捕捉系统，XSens动作捕捉套装，三维人脸扫描仪，高分辨率RGB相机，等等。作为一名刚起步的青年科研人员，我很珍视和不同层次学生一起工作的宝贵机会，而且希望我们各自都可以从科研合作中收益并在生活和工作方面成长为更好的自己。实验室以后每周会有一次全体组会，此外所有学生都会和我有一周一次或者两周一次的一对一meeting。我会深度参与到每个项目的整个生命周期，并基于我以往的经验给出细致的指导。我保证在学生需要我的帮助的时候会第一时间出现。根据需要我可以推荐学生到其他学校或者公司的实验室实习，并且对有志于在海外继续深造的学生提供帮助。
 
 ## 如何申请
-如果您对上面提到的任一研究课题感兴趣，并且愿意和我共事，请您尽快给我发送一封查询邮件，以便后续我们讨论各种细节问题。请发送邮件到yinghao_huang_91@gmail.com（去掉两个下划线），并随邮件附上：1）您的详细个人简历，2）说明为什么您想和我一起做研究，3），如果可以的话二到三个推荐人的联系方式（最好是邮箱地址），没有的话也无所谓。中英文皆可。
+如果您对上面提到的任一研究课题感兴趣，并且愿意和我共事，请您尽快给我发送一封查询邮件，以便后续我们讨论各种细节问题。请发送邮件到yinghao_huang_91@gmail.com（去掉两个下划线），并随邮件附上：1）您的详细个人简历，2）说明为什么您想和我一起做研究，3）如果可以的话二到三个推荐人的联系方式（最好是邮箱地址），没有的话也无所谓。中英文皆可。
 
 ## 申请者应具备的条件
 在开始正式申请之前，您还需要先确认下是否满足学校层面和实验室层面的招生要求。学校层面的要求后续会添加。实验室层面的话，我们希望申请者可以满足下面一个或者多个要求：
