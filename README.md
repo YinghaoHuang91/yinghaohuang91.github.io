@@ -23,7 +23,7 @@ Before jumping to the application, you may want to firstly check whether you wil
 
 ## Last Words
 Digital Humans or Virtual Humans have become a hot topic in both academia and industry, with many papers published at top-tier conferences and journals every year (In total, more than five thousand papers have been published at ToG over the last forty years. Among them, the seminal [SMPL paper](https://ps.is.mpg.de/code/smpl) is the [third most cited paper](https://dl.acm.org/action/doSearch?fillQuickSearch=false&SeriesKey=tog&sortBy=cited)), many working 
-opportunities offered at tech giants, and many chances to build your name in this relatively new area. I am humbled to be able to continue exploring this exciting and promising direction, and I look forward to working with those who also think so. I hope you, who are reading this advertisement now, can be one of them, and one of us.
+opportunities offered at tech giants (Google, Apple, Meta, Tencent, Huawei, ByteDance and many others all have their own Virtual Human divisions), and many chances to build your name in this relatively new area. I am humbled to be able to continue exploring this exciting and promising direction, and I look forward to working with those who also think so. I hope you, who are reading this advertisement now, can be one of them, and one of us.
 
 _________________________________________________________________________________________________________________________________________________
 
@@ -49,6 +49,6 @@ ________________________________________________________________________________
 3）申请者对于各类机器学习算法背后的底层逻辑应该有较好的理解和掌握，如一般的深度学习，变分自编码器，和扩散模型等。英语/数学/编程/物理水平较好是加分项。
 
 ## 写在最后
-数字人或者虚拟人技术已经成为学术界和工业界的一个火热的方向。每年都有很多论文被顶级会议和期刊接受（在ToG过去四十多年所有发表五千多篇论文中，领域内经典论文[SMPL](https://ps.is.mpg.de/code/smpl)引用数量[位居第三](https://dl.acm.org/action/doSearch?fillQuickSearch=false&SeriesKey=tog&sortBy=cited)，而且其引用数量还在快速增长中），各大科技巨头也都提供很好的工作岗位，同时这个新兴的领域也有很多打造个人品牌的机会。我很荣幸可以继续在这一令人兴奋且有光明前景的方向进行科研探索，并渴盼可以和持同样看法的其他人一起努力。我希望正在阅读这则招生通告的您就是这些人中的一员，并加入我们成为新团队的一份子。
+数字人或者虚拟人技术已经成为学术界和工业界的一个火热的方向。每年都有很多论文被顶级会议和期刊接受（在ToG过去四十多年所有发表五千多篇论文中，领域内经典论文[SMPL](https://ps.is.mpg.de/code/smpl)引用数量[位居第三](https://dl.acm.org/action/doSearch?fillQuickSearch=false&SeriesKey=tog&sortBy=cited)，而且其引用数量还在快速增长中），各大科技巨头也都提供很好的工作岗位（谷歌，苹果，Meta，腾讯，华为，字节跳动等公司都有自己的虚拟人团队），同时这个新兴的领域也有很多打造个人品牌的机会。我很荣幸可以继续在这一令人兴奋且有光明前景的方向进行科研探索，并渴盼可以和持同样看法的其他人一起努力。我希望正在阅读这则招生通告的您就是这些人中的一员，并加入我们成为新团队的一份子。
 
 ![Visitor Count](https://profile-counter.glitch.me/YinghaoHuang91/count.svg)
