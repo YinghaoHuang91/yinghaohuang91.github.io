@@ -19,7 +19,7 @@ If you are interested in working with me on any of the aforementioned topics, pl
 Before jumping to the application, you may want to firstly check whether you will fit into our new team or not. The requirement at the university will be the same as that of the collaboration universities (For PhD students, HIT-Shenzhen requires that the applicants should hold both bachelor and master's degress from 211 or 985 universities). Ideally, we want the applicants to satisafy some of these requirements:
 1) The applicants should have experience working in Computer Vision, Comoputer Graphics and / or Machine Learning. It is even greater if the applicants ever worked on 3D Humans. PhD applicants need to have at least one good publication. 
 2) The applicants are highly motivated to conduct cutting-edge research on the topic of 2D / 3D Humans. Doing research can be quite challenging sometimes, and only the ones determined to tackle the obstacles along the way are doomed to succeed.
-3) A good understanding and mastery of underlying theories and logics behind various Machine Learning algorithms, like general Deep Learning, Variational Auto-Endoders, and Diffusion Models. Being good at English is a plus.  
+3) A good understanding and mastery of underlying theories and logics behind various Machine Learning algorithms, like general Deep Learning, Variational Auto-Endoders, and Diffusion Models. Being good at English / Mathematics / Programming / Physics is a plus.  
 
 ## Last Words
 Digital Humans or Virtual Humans have become a hot topic in both academia and industry, with many papers published at top-tier conferences and journals every year, many working 
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 在开始正式申请之前，您还需要先确认下是否满足学校层面和实验室层面的招生要求。学校层面的要求和联合培养的学校相同（哈工深博士研究生要求本硕均为211高校及以上）。实验室层面的话，我们希望申请者可以满足下面一个或者多个要求：
 1）申请者应该有计算机视觉，计算机图形学，或者是机器学习方面的学习和科研经历。如果是二维或者三维人体相关的学习和科研经历就更好了。博士研究生申请者需要发表过一篇及以上比较好的论文；
 2）申请者需要对虚拟人方向足够感兴趣，并有足够的自驱力在二维和三维人体方面开展最前沿的科研工作。很多时候做科研都是很辛苦的，只有那些下定决心排除万难的人可以取得最后的成功；
-3）申请者对于各类机器学习算法背后的底层逻辑应该有较好的理解和掌握，如一般的深度学习，变分自编码器，和扩散模型等。英语水平较好是加分项。
+3）申请者对于各类机器学习算法背后的底层逻辑应该有较好的理解和掌握，如一般的深度学习，变分自编码器，和扩散模型等。英语/数学/编程/物理水平较好是加分项。
 
 ## 写在最后
 数字人或者虚拟人技术已经成为学术界和工业界的一个火热的方向。每年都有很多论文被顶级会议和期刊接受，各大科技巨头也都提供很好的工作岗位，同时这个新兴的领域也有很多打造个人品牌的机会。我很荣幸可以继续在这一令人兴奋且有光明前景的方向进行科研探索，并渴盼可以和持同样看法的其他人一起努力。我希望正在阅读这则招生通告的您就是这些人中的一员，并加入我们成为新团队的一份子。
